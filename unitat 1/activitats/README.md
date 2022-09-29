@@ -45,3 +45,6 @@ def area() -> int:
 - Cercle, Triangle i Rectangle heredarán de Figura directament.
 Quadrat heredará de Rectangle, però al constructor sols rebrá un argument, el costat.
 - Crea un objecte de cada tipus i imprimeix les seues característiques.
+
+## Author
+OUTMANE BOUHOU
